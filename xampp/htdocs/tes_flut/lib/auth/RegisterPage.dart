@@ -3,7 +3,7 @@ import 'package:tes_flut/auth/LoginPage.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:intl/intl.dart';
-import 'package:tes_flut/UserData.dart';
+import 'package:tes_flut/views/UserData.dart';
 
 class RegisterPage extends StatefulWidget {
   const RegisterPage({Key? key}) : super(key: key);
